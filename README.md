@@ -1,1 +1,1 @@
-Experimentation with spring property load
+Experimentation with spring property loading
