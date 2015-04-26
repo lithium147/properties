@@ -7,7 +7,7 @@ import org.springframework.core.io.support.ResourcePropertySource;
 import java.io.IOException;
 
 public class PropertyBasedProfileBuilder {
-    public static final String PROFILE_PROPERTIES = "profile-properties";
+    private static final String PROFILE_PROPERTIES = "profile-properties";
     private static final String DEFAULT_PROPERTIES = "default";
 
     private ConfigurableEnvironment environment;
